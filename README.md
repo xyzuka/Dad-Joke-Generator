@@ -1,5 +1,5 @@
 # Dad-Joke-Generator
-<p>A simple webapp that generates dad jokes.</p>
+<p>A silly webapp that generates dad jokes.</p>
 
 ![dad joke](https://user-images.githubusercontent.com/94155478/170229314-2264e7b6-26b4-4b3f-863b-a816b395538b.gif)
 
